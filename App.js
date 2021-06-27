@@ -5,7 +5,7 @@ class App extends Component {
     render() {
         return (
             <View>
-              <Text>Push Notification</Text>
+                <Text>Date Picker</Text>
             </View>
         );
     }
