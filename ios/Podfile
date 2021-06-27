@@ -14,6 +14,10 @@ target 'untitled7' do
 
   pod 'react-native-onesignal', :path => '../node_modules/react-native-onesignal'
 
+  pod 'react-native-date-picker', :path => '../node_modules/react-native-date-picker'
+
+  pod 'RNDateTimePicker', :path => '../node_modules/@react-native-community/datetimepicker'
+
   target 'untitled7Tests' do
     inherit! :complete
     # Pods for testing
